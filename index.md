@@ -40,12 +40,12 @@ Twitter: [@huitclub](https://twitter.com/huitclub/)
 | ③            | 20:00~20:45 | [@gojiteji](https://twitter.com/gojiteji)       | Python によるデータ整形                        |
 | **4/9(金)**  |
 | ①            | 19:00~19:15 |                                                 | HUIT 説明会                                    |
-| ②            | 19:15~20:00 | [@imd555](https://twitter.com/imd555)           | プログラミング環境構築の第一歩                 |
+| ②            | 19:15~20:00 | [@imd555](https://twitter.com/imd555)           | プログラミングを始めよう！                 |
 | ③            | 20:00~20:45 | [@monkukui2](https://twitter.com/monkukui2)     | オセロを 30 分で作るライブコーディング         |
 | **4/13(火)** |
 | ①            | 19:00~19:15 |                                                 | HUIT 説明会                                    |
 | ②            | 19:15~20:00 | [@ayumin](https://twiiter.com/shoumoji)         | json ってなに？から始めるデータ記述言語紹介    |
-| ③            | 20:00~20:45 | [@takapiro_99](https://twitter.com/takapiro_99) | LINE Bot を Python で作るライブコーディング    |
+| ③            | 20:00~20:45 | [@takapiro_99](https://twitter.com/takapiro_99) | Python で LINE Bot を 作るライブコーディング    |
 | **4/23(金)** |
 | ①            | 19:00~19:15 |                                                 |                                                |
 | ②            | 19:15~20:00 |                                                 | 部員 LT<br/>～最近気になっていること LT ～     |
