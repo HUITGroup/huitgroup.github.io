@@ -1,4 +1,6 @@
-![image](/logo192.png)
+![image]({{site.baseurl}}/logo192.png)
+
+<!-- {{site.baseurl}}はレポジトリの設定によっては/sample...で上手く出来ない時があるので必要 -->
 
 # HUIT 北大 IT 研究会
 
@@ -23,40 +25,17 @@ Twitter: [@huitclub](https://twitter.com/huitclub/)
 
 活動紹介の他、ライブコーディングや部員による LT（ライトニングトーク）など、様々なイベントを開催します！
 
-全てオンライン（Zoom）での開催となります。参加方法などは現在準備中なので、更新をお待ちください。
-（3/23 現在）
+2021年度の新歓は全てオンライン（Zoom）での開催となります。
+
+<!--  target="_blank"を使用する為aタグを直接書く -->
+
+<a href="{{site.baseurl}}/welcomeparty" target="_blank" rel="noopener noreferrer"><img src="{{site.baseurl}}/welcome-btn.png" width="200"></a>
+
+![image]({{site.baseurl}}/WelcomePartySchedule.png)
 
 <!--各セッションは日本語で行われます。-->
 
 <!-- ↑english page なかったらいらん -->
-
-### 📅 新歓スケジュール
-
-| 日程         | 時刻        | 発表者                                          | タイトル                                       |
-| ------------ | ----------- | ----------------------------------------------- | ---------------------------------------------- |
-| **4/2(金)**  |             |                                                 |                                                |
-| ①            | 19:00~19:15 |                                                 | HUIT 説明会                                    |
-| ②            | 19:15~20:00 | [@takapiro_99](https://twitter.com/takapiro_99) | ぼくがかんがえるさいきょうのハッカーのなりかた |
-| ③            | 20:00~20:45 | [@gojiteji](https://twitter.com/gojiteji)       | Python によるデータ整形                        |
-| **4/9(金)**  |
-| ①            | 19:00~19:15 |                                                 | HUIT 説明会                                    |
-| ②            | 19:15~20:00 | [@imd555](https://twitter.com/imd555)           | プログラミングを始めよう！                 |
-| ③            | 20:00~20:45 | [@monkukui2](https://twitter.com/monkukui2)     | オセロを 30 分で作るライブコーディング         |
-| **4/13(火)** |
-| ①            | 19:00~19:15 |                                                 | HUIT 説明会                                    |
-| ②            | 19:15~20:00 | [@ayumin](https://twiiter.com/shoumoji)         | json ってなに？から始めるデータ記述言語紹介    |
-| ③            | 20:00~20:45 | [@takapiro_99](https://twitter.com/takapiro_99) | Python で LINE Bot を 作るライブコーディング    |
-| **4/23(金)** |
-| ①            | 19:00~19:15 |                                                 |                                                |
-| ②            | 19:15~20:00 |                                                 | 部員 LT<br/>～最近気になっていること LT ～     |
-| ③            | 20:00~20:45 |                                                 | 部員 LT<br/>～好きな技術大公開編～             |
-| **4/30(金)** |
-| ①            | 19:00~19:15 |                                                 | HUIT 説明会                                    |
-| ②            | 19:15~20:45 |                                                 | （未定）                                       |
-
-<!-- （仮画像） -->
-
-![image](https://cdn.discordapp.com/attachments/805470398950277162/823906619695824946/2021-03-23_22.10.03.png)
 
 ---
 
