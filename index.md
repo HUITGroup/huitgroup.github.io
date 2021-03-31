@@ -19,7 +19,7 @@ HUIT は、北海道大学の学生を中心とした IT 系学生サークル�
 
 <!-- 24時間表記が好き -->
 
-Twitter: [@huitclub](https://twitter.com/huitgroup)
+Twitter: [@huitgroup](https://twitter.com/huitgroup)
 
 ## 🎉 2021 新歓
 
@@ -84,4 +84,4 @@ Twitter: [@huitclub](https://twitter.com/huitgroup)
 
 ## ✉️ お問い合わせ
 
-見学希望・イベント共催・その他、Twitter ([@huitclub](https://twitter.com/huitgroup)) まで DM お願いします！
+見学希望・イベント共催・その他、Twitter ([@huitgroup](https://twitter.com/huitgroup)) まで DM お願いします！

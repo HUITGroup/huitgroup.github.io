@@ -166,6 +166,6 @@ Zoomのインストール方法、操作方法は以下のリンクをご確認�
 
 ## ✉️ お問い合わせ
 
-新歓について質問がある方は、Twitter ([@huitclub](https://twitter.com/huitgroup)) まで DM お願いします！
+新歓について質問がある方は、Twitter ([@huitgroup](https://twitter.com/huitgroup)) まで DM お願いします！
 
 [ホームへ戻る]({{site.baseurl}}/)
