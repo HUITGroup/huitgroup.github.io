@@ -39,7 +39,7 @@
 | ②            | 20:15~21:00 | [@monkukui2](https://twitter.com/monkukui2)     | オセロを 30 分で作るライブコーディング         |
 | **4/20(火)** |
 | ⓪            | 19:00~19:15 |                                                 | HUIT 説明会                                    |
-| ①            | 19:15~20:00 | [@ayumin](https://twiiter.com/shoumoji)         | json ってなに？から始めるデータ記述言語    |
+| ①            | 19:15~20:00 | [@ayumin](https://twitter.com/shoumoji)         | json ってなに？から始めるデータ記述言語    |
 | ②            | 20:15~21:00 | [@takapiro_99](https://twitter.com/takapiro_99) | Python で LINE Bot を 作るライブコーディング    |
 | **4/23(金)** |
 | ⓪            | 19:00~19:15 |                                                 | HUIT 説明会                                   |
