@@ -27,9 +27,7 @@ Twitter: [@huitclub](https://twitter.com/huitclub/)
 
 2021年度の新歓は全てオンライン（Zoom）での開催となります。
 
-<!--  target="_blank"を使用する為aタグを直接書く -->
-
-<a href="{{site.baseurl}}/welcomeparty" target="_blank" rel="noopener noreferrer"><img src="{{site.baseurl}}/welcome-btn.png" width="200"></a>
+<a href="{{site.baseurl}}/welcomeparty"><img src="{{site.baseurl}}/welcome-btn.png" width="200"></a>
 
 ![image]({{site.baseurl}}/WelcomePartySchedule.png)
 
