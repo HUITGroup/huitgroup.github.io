@@ -32,7 +32,6 @@ Twitter: [@huitgroup](https://twitter.com/huitgroup)
 ![image]({{site.baseurl}}/WelcomePartySchedule.png)
 
 <!--各セッションは日本語で行われます。-->
-
 <!-- ↑english page なかったらいらん -->
 
 ---
