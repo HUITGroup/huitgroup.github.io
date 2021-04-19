@@ -117,7 +117,7 @@
 
 対象レベル : プログラミングについて知ってはいるけど、やったことはない人
 
-概要 : Line Botを作るのに必要な JSON についての説明と、その他のデータ記述言語の紹介
+概要 : Line Bot を作るのに必要な JSON についての説明と、その他のデータ記述言語の紹介
 
 必要な物 : なし
 
@@ -127,9 +127,9 @@
 
 対象レベル : 誰でも
 
-概要 : じゃんけん LINE BOT を作ります。<!--（仮）その様子をライブ配信します。-->
+概要 : 献立を提案してくれる Line Bot をライブコーディングします。その様子をライブ配信します。
 
-必要な物 : なし
+必要な物 : なし！
 
 <br>
 
@@ -142,7 +142,9 @@
 
 **申し込み**
 
-1. <a href="https://forms.gle/QFouk7eM2FJ62ZDB6" target="_blank" rel="noopener noreferrer">参加申し込みフォーム</a>を送信する
+<!-- 1. <a href="https://forms.gle/QFouk7eM2FJ62ZDB6" target="_blank" rel="noopener noreferrer">参加申し込みフォーム</a>を送信する -->
+
+1. <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8yyWIPMa-cB4NiONBPLOeMuwXxO6gpRNIMOQoK9J4qOI-fw/viewform?usp=pp_url&entry.1215451872=受け取る" target="_blank" rel="noopener noreferrer">参加申し込みフォーム</a>を送信する
 
 2. 数分以内に回答のコピーが届くので、確認する（届かない場合、別のメールアドレスで再送信する）
 
