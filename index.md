@@ -1,4 +1,4 @@
-![image]({{site.baseurl}}/logo192.png)
+![image]({{site.baseurl}}/huit_logo_white.png)
 
 <!-- {{site.baseurl}}はレポジトリの設定によっては/sample...で上手く出来ない時があるので必要 -->
 
@@ -21,18 +21,14 @@ HUIT は、北海道大学の学生を中心とした IT 系学生サークル�
 
 Twitter: [@huitgroup](https://twitter.com/huitgroup)
 
-## 🎉 2021 新歓
+### 🎉 2021 新歓
 
-活動紹介の他、ライブコーディングや部員による LT（ライトニングトーク）など、様々なイベントを開催します！
+2021 新歓は終了しました。たくさんのご参加ありがとうございました！
+全 5 回で、延べ 50 人ほどの参加がありました。
 
-2021年度の新歓は全てオンライン（Zoom）での開催となります。
+HUIT では、いつでも入部を受け付けています。2 ヵ月の体験入部期間でぜひ雰囲気を掴んでください。興味があれば [Twitter の DM](https://twitter.com/huitgroup) まで！
 
-<a href="{{site.baseurl}}/welcomeparty"><img src="{{site.baseurl}}/welcome-btn.png" width="200"></a>
-
-![image]({{site.baseurl}}/WelcomePartySchedule.png)
-
-<!--各セッションは日本語で行われます。-->
-<!-- ↑english page なかったらいらん -->
+勉強会の飛び入り参加もお待ちしています。
 
 ---
 
@@ -48,12 +44,16 @@ Twitter: [@huitgroup](https://twitter.com/huitgroup)
 
 ### 2021 年度
 
-- 4 月 新入生歓迎会
+- 4 月 新歓（[特設ページ]({{site.baseurl}}/welcomeparty)）
+- 5 月 新入生向け勉強会
+  - 5/21 ネットワーク勉強会（予定）
+  - 5/28 機械学習勉強会（予定）
+  - 6/4 Web エンジニアになろう（予定）
+  - 6/11 開発と Docker（予定）
 
 （今後の予定）
 
-- 5 月 新入生向け勉強会
-- 8 月 夏の LT 会
+- 7 月 夏の LT 会
 - 12 月 冬の LT 会
 - 3 月 HUIT ハッカソン
 
@@ -73,11 +73,13 @@ Twitter: [@huitgroup](https://twitter.com/huitgroup)
 
 ### 🎈 部員のイベント参加
 
-- JPHacks（全国大会出場）
-- ISUCON10
-- N-PTC
-- セキュリティ・キャンプ
-- Global Cybersecurity Camp
+- [JPHacks](https://jphacks.com/)（全国大会出場）
+- [ISUCON10](https://isucon.net/)
+- [N-PTC](https://nttcom.connpass.com/event/201413/)
+- [セキュリティ・キャンプ](https://www.ipa.go.jp/jinzai/camp/index.html)
+- Global Cybersecurity Camp ([gcc.ac](https://gcc.ac/))
+- [Micro Hardening v2](https://microhardening.connpass.com/event/211463/)
+- [SecHack365](https://sechack365.nict.go.jp/course/index.html)
 
 ---
 
