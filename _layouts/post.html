@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{{ content }}
+
+<p class='date'>{{ page.date | date: "%Y-%m-%d" }}</p>
+<p class='author'>著者：{{ page.author }}</p>
+
+<style>
+  .date {
+    padding-top: 30px;
+    margin-top: 30px;
+    border-top: 1px solid grey;
+  }
+
+  .date,
+  .author {
+    color: grey;
+    text-align: right;
+  }
+</style>

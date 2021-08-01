@@ -5,3 +5,4 @@ theme: jekyll-theme-slate
 exclude:
   - "docker-compose.yml"
   - "README.md"
+permalink: /:year/:title
