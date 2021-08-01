@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<p><a href="/activities">←記事一覧</a></p>
+
+<h1>{{ page.title }}</h1>
+
+<p class='date'>{{ page.date | date: "%Y-%m-%d" }}
+  {% if page.author %}
+  <br />writer: {{page.author}}
+  {% endif %}
+</p>
+
+{{ content }}
+
+<p class="end-of-content"><a href="/activities">←記事一覧</a></p>
+
+<style>
+  .end-of-content {
+    padding-top: 30px;
+    margin-top: 30px;
+    border-top: 1px solid grey;
+  }
+
+  .date {
+    color: grey;
+    text-align: right;
+  }
+</style>

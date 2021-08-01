@@ -34,28 +34,44 @@ HUIT では、いつでも入部を受け付けています。2 ヵ月の体験�
 
 ## 👨‍💻 これまでの活動
 
-### 昨年度の活動
+### 2021 年
 
-- 4 月 活動をオンライン（Discord）に移行
-- 8 月 他大学合同 LT 会
-- 12 月 冬の LT 会
-- 2 月 春の LT 会
-- 3 月 HUIT ハッカソン 2021 春
+<ul> <!-- 2021年の記事一覧 -->
+{% for post in site.posts %}
+    {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+    {% if post.next %}{% capture nyear %}{{ post.previous.date | date: '%Y' }}{% endcapture %}{% endif %}
+    <li>{{ post.date | date: "%m 月 "}}<a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% if year != nyear %}{% break %}{% endif %}
+{% endfor %}
+</ul>
 
-### 2021 年度
-
-- 4 月 新歓（[特設ページ]({{site.baseurl}}/welcomeparty)）
-- 5 月 新入生向け勉強会
+<!-- - 5 月 新入生向け勉強会
   - 5/21 ネットワーク勉強会（予定）
   - 5/28 機械学習勉強会（予定）
   - 6/4 Web エンジニアになろう（予定）
-  - 6/11 開発と Docker（予定）
+  - 6/11 開発と Docker（予定） -->
 
-（今後の予定）
+---
 
-- 7 月 夏の LT 会
+～終了した活動～
+
+- 03 月 HUIT ハッカソン開催
+- 04 月 部の discord の管理に bot を作ってみた
+- 06 月 集中講義「プログラミング教室」の TA を派遣しました
+- 07 月 夏だ！花火だ！LT だ！ HUIT × ビズリーチコラボ LT 大会
+
+～今後の予定～
+
+- 08 月 ブログを整備します
+- 08 月 OB・OG 合同 LT 大会を開催します
 - 12 月 冬の LT 会
 - 3 月 HUIT ハッカソン
+
+<br/>
+
+#### [全ての活動記録](/activities)
+
+<br/>
 
 ---
 
@@ -86,3 +102,5 @@ HUIT では、いつでも入部を受け付けています。2 ヵ月の体験�
 ## ✉️ お問い合わせ
 
 見学希望・イベント共催・その他、Twitter ([@huitgroup](https://twitter.com/huitgroup)) まで DM お願いします！
+
+<a class="twitter-timeline" data-height="600" data-theme="light" href="https://twitter.com/huitgroup?ref_src=twsrc%5Etfw">Tweets by huitgroup</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

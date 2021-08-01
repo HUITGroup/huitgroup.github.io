@@ -1,10 +1,14 @@
-## 🎉 2021 新歓
+---
+layout: post
+title: 🎉2021新歓
+author: karintou8710
+---
 
 活動紹介の他、ライブコーディングや部員による LT（ライトニングトーク）など、様々なイベントを開催します！
 
 2021年度の新歓は全てオンライン（Zoom）での開催となります。
 
-![image]({{site.baseurl}}/WelcomePartySchedule.png)
+![image](/assets/2021/WelcomePartySchedule.png)
 
 <!--各セッションは日本語で行われます。-->
 
