@@ -1,3 +1,7 @@
+lang: "ja"
 title: HUIT 北大 IT 研究会
 description: 北海道大学の学生を中心とした IT 系学生サークルです
 theme: jekyll-theme-slate
+exclude:
+  - "docker-compose.yml"
+  - "README.md"
