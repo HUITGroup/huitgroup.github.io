@@ -23,8 +23,11 @@
 layout: post
 title: ここにタイトル
 author: ここにライターのハンドルネーム
+image: ここに OGP 画像のパス（なければ、/huit_logo_white.png）
 ---
 ```
+
+（参考：[https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md)）
 
 ### 写真など、静的ファイル
 
