@@ -5,7 +5,7 @@ author: shoumoji
 image: /huit_logo_white.png
 ---
 
-初めまして、現 HUIT の部長をしている ayumin です。今年の 3 月ごろから、部長を引き継いで活動をしています。
+初めまして、現 HUIT の部長をしている [ayumin](https://twitter.com/shoumoji) です。今年の 3 月ごろから、部長を引き継いで活動をしています。
 
 ## HUIT と自分のこれまでについて
 
