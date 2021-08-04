@@ -1,4 +1,4 @@
-i---
+---
 layout: post
 title: 春のハッカソンでHUITデビューした話
 author: KOSUKEzawazawa
