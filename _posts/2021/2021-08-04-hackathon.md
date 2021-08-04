@@ -71,3 +71,17 @@ image: /huit_logo_white.png
 ただ、参加者へのサポートなど、一般的なハッカソンとは異なる、工夫して行うことができた場面も多々みられたので、今後はどのような価値を提供していけるかを時間をかけて話し合い、運営もいい感じに回してやっていきたいなと感じました。
 
 参加者の皆さん、協賛企業の皆さん、当日はありがとうございました！
+
+<style>
+  .img-container {
+    width: 100%;
+  }
+
+  .img-container__hackathon {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+</style>
