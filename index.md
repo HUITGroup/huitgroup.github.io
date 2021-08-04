@@ -37,11 +37,12 @@ HUIT では、いつでも入部を受け付けています。2 ヵ月の体験�
 ### 2021 年
 
 <ul> <!-- 2021年の記事一覧 -->
-{% for post in site.posts %}
-    {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
-    {% if post.next %}{% capture nyear %}{{ post.previous.date | date: '%Y' }}{% endcapture %}{% endif %}
-    <li>{{ post.date | date: "%m 月 "}}<a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% if year != nyear %}{% break %}{% endif %}
+{% for post in site.posts reversed %}
+    {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% assign currentYear = 'now' | date: "%Y" %}
+    {% if currentYear == year %}
+      <li>{{ post.date | date: "%m 月 "}}<a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
 {% endfor %}
 </ul>
 
