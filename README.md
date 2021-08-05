@@ -24,6 +24,7 @@ layout: post
 title: ここにタイトル
 author: ここにライターのハンドルネーム
 image: ここに OGP 画像のパス（なければ、/huit_logo_white.png）
+updated_at: ここに更新日時（YYYY-MM-DD）（なければ、この行を消してよい）
 ---
 ```
 
