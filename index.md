@@ -24,15 +24,15 @@ HUIT は、北海道大学の学生を中心とした IT 系学生サークル�
 HUIT は、新歓を 4 月の金曜日(4/1、4/8、4/15、4/22、4/29)にオンラインで行います!
 時間は 19:00 ~ 21:00 を予定しています。内容は追って更新されます。
 
-### Twitter
-
-Twitter: [@huitgroup](https://twitter.com/huitgroup)
-
 ### 新規入会
 
 HUIT では、いつでも入部を受け付けています。2 ヵ月の体験入部期間でぜひ雰囲気を掴んでください。興味があれば [Twitter の DM](https://twitter.com/huitgroup) まで！
 
 勉強会の飛び入り参加もお待ちしています。
+
+### Twitter
+
+Twitter: [@huitgroup](https://twitter.com/huitgroup)
 
 ---
 
