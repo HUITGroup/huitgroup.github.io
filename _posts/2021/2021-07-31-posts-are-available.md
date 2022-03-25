@@ -1,5 +1,4 @@
 ---
-layout: post
 title: ブログを整備しました
 author: takapiro99
 image: /huit_logo_white.png

@@ -1,10 +1,13 @@
-version: "3"
+version: '3.7'
 services:
   app:
-    container_name: app
     image: jekyll/jekyll:pages
-    command: jekyll serve --force_polling
+    command:
+    # 追加プラグインのインストールをする
+      - "bash"
+      - "-c"
+      - "gem install jekyll-include-cache && jekyll serve --force_polling"
     volumes:
-      - .:/srv/jekyll
+      - $PWD:/srv/jekyll
     ports:
       - 4000:4000

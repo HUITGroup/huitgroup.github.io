@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 🌸ハッカソンを主催しました
 author: manattan_me
 image: /huit_logo_white.png

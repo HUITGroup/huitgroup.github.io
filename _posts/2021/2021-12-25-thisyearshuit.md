@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 今年のHUITを振り返って
 author: shoumoji
 ---
