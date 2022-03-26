@@ -1,14 +1,53 @@
-lang: "ja"
-title: HUIT 北大 IT 研究会
-description: 北海道大学の学生を中心とした IT 系学生サークルです
-theme: jekyll-theme-slate
-exclude:
-  - "docker-compose.yml"
-  - "README.md"
-permalink: /:year/:title
-twitter:
-  username: huitgroup
-  card: summary_large_image
-logo: /huit_logo_white.png
-future: true
+lang: ja
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
 locale: ja_JP
+title: "HUIT 北大IT研究会"
+title_separator: "|"
+minimal_mistakes_skin: "air" # 全体の色合い
+
+breadcrumbs: true
+logo: "/assets/images/huit_logo_white.png"
+include:
+  - _pages
+twitter:
+  username: "huitgroup"
+
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      header:
+        overlay_image: /assets/images/header.jpg
+        overlay_filter: 0.5
+  # pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      author: HUIT
+
+  # posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      permalink: /:categories/:title/
+      layout: single
+      author_profile: true
+      show_date: true
+      toc: true
+      header:
+        show_overlay_excerpt: false
+

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HUITの運営を引き継いだ話
 author: shoumoji
 image: /huit_logo_white.png
