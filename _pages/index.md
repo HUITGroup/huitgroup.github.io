@@ -96,8 +96,8 @@ HUIT では、いつでも入部を受け付けています。2 ヵ月の体験�
 - バージョン管理 `Git` `Github`
 - BOT 制作： `Discord` `Twitter`
 - 機械学習・AI： `自然言語処理` `画像処理` `音声処理`
-- ブロックチェーン: `NFT`
-- blender
+- ブロックチェーン: `NFT` `solidity`
+- CG: `blender` `fusion`
 - Latex
 
 ### 🎈 部員のイベント参加
@@ -105,7 +105,7 @@ HUIT では、いつでも入部を受け付けています。2 ヵ月の体験�
 - ハッカソン
   - [技育展](https://talent.supporterz.jp/geekten/2021/)
   - [JPHacks](https://jphacks.com/)（全国大会出場）
-  - てくのこ
+  - てくのこ SCSK株式会社主催
   - [SAPPORO CITY HACK](https://mikan-hchp.connpass.com/event/240964/)
 - セキュリティ
   - [SecHack365](https://sechack365.nict.go.jp/course/index.html)
@@ -123,13 +123,14 @@ HUIT では、いつでも入部を受け付けています。2 ヵ月の体験�
   - Fusion 360 Virtual Academic Design League
   -  [Generative Design Award](https://www.myautodesk.jp/f360-gd-contest-2021/)
 - LT会
-  - 技育祭2022春 学生LT
-  - 北海道未完×デルタ新潟合同LT会
-  - 未完LT会
+  - [技育祭2022春 学生LT](https://talent.supporterz.jp/geeksai/2022spring/)
+  - [北海道未完×デルタ新潟合同LT会](https://hokkaido-mikan-delta-niigata.connpass.com/event/236750/)
+  - [未完LT会](https://mikan-study.connpass.com/event/233759/)
 - CTF
-  - WaniCTF2021
+  - [WaniCTF2021](https://wanictf.org/)
   - nitic_ctf_2
   - [SECCON CTF 2021](https://www.seccon.jp/2021/)
+  - [LINE CTF 2022](https://score.linectf.me/)
 - その他
   - [ISUCON10](https://isucon.net/)
   - [N-PTC](https://nttcom.connpass.com/event/201413/)
@@ -137,6 +138,7 @@ HUIT では、いつでも入部を受け付けています。2 ヵ月の体験�
   - [Kaggle](https://www.kaggle.com/)
   - [ICTSC](https://icttoracon.net/)
   - [北大DXフェローシップロゴデザイン](https://sites.google.com/eis.hokudai.ac.jp/dxphd-fellow/logo)
+  - [STAND OUT](https://standout-sapporo.city/)
 
 ---
 
