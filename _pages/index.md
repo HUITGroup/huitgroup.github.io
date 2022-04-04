@@ -89,7 +89,7 @@ HUIT では、いつでも入部を受け付けています。2 ヵ月の体験�
   - バックエンド： `FastAPI` `Django` `Docker` `Node.js` `Go` `PHP` `Firebase`
 - 競技プログラミング： `C++` `Python`
 - アプリ: `flutter` `Android` `iOS`
-- Windows アプリケーション制作 `C#`
+- Windows アプリケーション制作: `C#`
 - ゲーム制作： `Unity`
 - ネットワーク・OS： `C` `Rust`
 - マイコン・組み込み・IoT： `Raspberry Pi` `Arduino` `ESP` `PIC` `IchigoJam`
@@ -97,7 +97,7 @@ HUIT では、いつでも入部を受け付けています。2 ヵ月の体験�
 - BOT 制作： `Discord` `Twitter`
 - 機械学習・AI： `自然言語処理` `画像処理` `音声処理`
 - ブロックチェーン: `NFT`
-- blender
+- 3DCG: `Blender`
 - Latex
 
 ### 🎈 部員のイベント参加
