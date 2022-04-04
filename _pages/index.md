@@ -64,7 +64,7 @@ HUIT では新歓を 4 月の毎週金曜日 (4/1、4/8、4/15、4/22、4/29) �
 - 04 月 部の discord の管理に bot を作ってみた
 - 06 月 集中講義「プログラミング教室」の TA を派遣しました
 - 07 月 夏だ！花火だ！LT だ！ HUIT × ビズリーチコラボ LT 大会
-- 12 月 [2021 年 HUIT アドベントカレンダー](https://qiita. com/advent-calendar/2021/huit)
+- 12 月 [2021 年 HUIT アドベントカレンダー](https://qiita.com/advent-calendar/2021/huit)
 
 ～今後の予定～
 
@@ -105,7 +105,7 @@ HUIT では新歓を 4 月の毎週金曜日 (4/1、4/8、4/15、4/22、4/29) �
   - [SAPPORO CITY HACK](https://mikan-hchp.connpass.com/event/240964/)
 - セキュリティ
   - [SecHack365](https://sechack365.nict.go.jp/course/index.html)
-  - [セキュリティ・キャンプ](https://www.ipa. go.jp/jinzai/camp/index.html)
+  - [セキュリティ・キャンプ](https://www.ipa.go.jp/jinzai/camp/index.html)
   - [セキュリテイミニキャンプ](https://www.security-camp.or.jp/minicamp/online2021.html)
   - [Micro Hardening v2](https://microhardening.connpass.com/event/211463/)
   - Global Cybersecurity Camp ([gcc.ac](https://gcc.ac/))
