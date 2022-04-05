@@ -1,7 +1,4 @@
-on:
-  push:
-    branches:
-      - main
+on: pull_request
 
 jobs:
   format:
@@ -10,7 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0
+          ref: ${{github.head_ref}}
       - uses: actions/setup-node@v3
         with:
           node-version: "16"
@@ -18,15 +15,11 @@ jobs:
         run: npm install
       - name: format
         run: npm run fmt
-      - name: git setting
+      - name: git push files
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "github-actions[bot]"
-      - name: git commit files
-        run: |
           git add .
           git commit -m "format" -a
           git pull
           git push origin ${GITHUB_REF_NAME}
-        env:
-          GITHUB_TOKEN: ${secrets.GITHUB_TOKEN}
