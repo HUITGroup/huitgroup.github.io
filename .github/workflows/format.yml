@@ -17,7 +17,7 @@ jobs:
       - name: install formatter (prettier)
         run: npm install prettier
       - name: format
-        run: node ./node_modules/.bin/prettier --write '**/*.md'ules/.bin/prettier --write '**/*.md'
+        run: node ./node_modules/.bin/prettier --write '**/*.md'
       - name: git setting
         run: |
           git config --local user.email "actions@github.com"
