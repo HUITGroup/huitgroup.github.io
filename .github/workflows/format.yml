@@ -7,7 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          ref: ${{github.head_ref}}
+          ref: ${GITHUB_HEAD_REF}
       - uses: actions/setup-node@v3
         with:
           node-version: "16"
@@ -22,5 +22,4 @@ jobs:
           git add .
           git commit -m "format" -a
           git pull
-          echo ${GITHUB_HEAD_REF}
           git push origin ${GITHUB_HEAD_REF}
