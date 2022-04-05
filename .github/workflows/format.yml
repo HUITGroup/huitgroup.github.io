@@ -22,5 +22,5 @@ jobs:
           git add .
           git commit -m "format" -a
           git pull
-          echo ${GITHUB_REF_NAME}
-          git push origin ${GITHUB_REF_NAME}
+          echo ${GITHUB_HEAD_REF}
+          git push origin ${GITHUB_HEAD_REF}
