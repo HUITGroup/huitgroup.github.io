@@ -15,9 +15,9 @@ jobs:
         with:
           node-version: "16"
       - name: install formatter (prettier)
-        run: npm install prettier
+        run: npm install
       - name: format
-        run: node ./node_modules/.bin/prettier --write '**/*.md'
+        run: npm run fmt
       - name: git setting
         run: |
           git config --local user.email "actions@github.com"
@@ -28,3 +28,5 @@ jobs:
           git commit -m "format" -a
           git pull
           git push origin ${GITHUB_REF_NAME}
+        env:
+          GITHUB_TOKEN: ${secrets.GITHUB_TOKEN}
