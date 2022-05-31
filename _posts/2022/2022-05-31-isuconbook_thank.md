@@ -5,7 +5,7 @@ author: karintou
 
 ![image]({{ "/assets/2022/isuconbook.jpg" | relative_url }})
 
-「達人が教える Web パフォーマンスチューニング　〜ISUCON から学ぶ高速化の実践」が届きました！
+技術評論社様から「[達人が教える Web パフォーマンスチューニング　〜ISUCON から学ぶ高速化の実践](https://www.amazon.co.jp/dp/4297128462)」が届きました！
 
 想像より分厚く、読み応えがありそうです。
 
