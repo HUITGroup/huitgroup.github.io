@@ -6,7 +6,7 @@ services:
     # 追加プラグインのインストールをする
       - "bash"
       - "-c"
-      - "gem install jekyll-include-cache && jekyll serve --force_polling"
+      - "gem install jekyll-include-cache webrick && jekyll serve --force_polling"
     volumes:
       - $PWD:/srv/jekyll
     ports:
