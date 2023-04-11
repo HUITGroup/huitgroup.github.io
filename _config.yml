@@ -1,5 +1,6 @@
 lang: ja
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+repository: HUITGroup/huitgroup.github.io
 
 plugins:
   - jekyll-paginate
