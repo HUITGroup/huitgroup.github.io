@@ -8,6 +8,6 @@ services:
       - "-c"
       - "gem install jekyll-include-cache webrick && jekyll serve --force_polling"
     volumes:
-      - $PWD:/srv/jekyll
+      - .:/srv/jekyll
     ports:
       - 4000:4000
