@@ -1,8 +1,9 @@
 HUIT:
-  name     : "HUIT"
-  avatar   : "/assets/images/huit_logo_white.png"
-  bio      : "HUIT は、北海道大学の学生を中心とした IT 系学生サークルです。
-  北海道のエンジニア学生の交流の場になるようなコミュニティを目指して 2017 年から活動しています。"
+  name: "HUIT"
+  avatar: "/assets/images/huit_logo_white.png"
+  bio: |
+    HUIT は、北海道大学の学生を中心とした IT 系学生サークルです。
+    北海道のエンジニア学生の交流の場になるようなコミュニティを目指し、 2017 年から活動しています。
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -12,9 +13,9 @@ HUIT:
       url: "https://github.com/HUITGroup"
 
 karintou:
-  name     : "karintou"
-  avatar   : "/assets/images/karintou.jpg"
-  bio      : "フライドポテトが好きな人です。"
+  name: "karintou"
+  avatar: "/assets/images/karintou.jpg"
+  bio: "フライドポテトが好きな人です。"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -24,9 +25,9 @@ karintou:
       url: "https://github.com/karintou8710"
 
 usatyo:
-  name     : "usatyo"
-  avatar   : "/assets/images/usatyo.jpg"
-  bio      : "パティシエの卵"
+  name: "usatyo"
+  avatar: "/assets/images/usatyo.jpg"
+  bio: "パティシエの卵"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -36,9 +37,9 @@ usatyo:
       url: "https://github.com/usatyo"
 
 almikan:
-  name     : "あるみかん"
-  avatar   : "/assets/images/almikan.png"
-  bio      : "みかんが好きな人"
+  name: "あるみかん"
+  avatar: "/assets/images/almikan.png"
+  bio: "みかんが好きな人"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -48,9 +49,9 @@ almikan:
       url: "https://github.com/Al-Mikan"
 
 shoumoji:
-  name     : "ayumin"
-  avatar   : "/assets/images/ayumin.jpg"
-  bio      : "インフラマスター"
+  name: "ayumin"
+  avatar: "/assets/images/ayumin.jpg"
+  bio: "インフラマニア"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -60,9 +61,9 @@ shoumoji:
       url: "https://github.com/shoumoji"
 
 ojizosan:
-  name     : "ojizosan"
-  avatar   : "/assets/images/ojizosan.jpg"
-  bio      : "ロードバイクマスター"
+  name: "ojizosan"
+  avatar: "/assets/images/ojizosan.jpg"
+  bio: "ロードバイクマスター"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -72,9 +73,9 @@ ojizosan:
       url: "https://github.com/ojizosan"
 
 hanchan:
-  name     : "hanchan"
-  avatar   : "/assets/images/hanchan.jpg"
-  bio      : "ジェダイマスター"
+  name: "hanchan"
+  avatar: "/assets/images/hanchan.jpg"
+  bio: "ジェダイマスター"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -84,9 +85,9 @@ hanchan:
       url: "https://github.com/noriHanda"
 
 manattan_me:
-  name     : "mogi"
-  avatar   : "/assets/images/hanchan.jpg"
-  bio      : ""
+  name: "mogi"
+  avatar: "/assets/images/hanchan.jpg"
+  bio: ""
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -94,5 +95,3 @@ manattan_me:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/manattan_me"
-
-
