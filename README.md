@@ -17,7 +17,7 @@
 Docker Compose でローカル環境で確認できるようにしています。
 
 ご自分の環境で Docker Desktop を起動後、このレポジトリをクローンした場所のルートにて `$ docker compose up` を実行して起動します。
-起動後は `localhost:4000` で編集中のサイトを確認しましょう。
+起動後は [http://localhost:4000/](http://localhost:4000/activities) で編集中のサイトを確認しましょう。
 
 ### 記事追加について
 
@@ -43,14 +43,6 @@ updated_at: ここに更新日時（YYYY-MM-DD）（なければ、この行を�
 写真などの静的ファイルは、`/assets/` 以下に格納してください。
 
 表示させる際はこのような感じです。 `![alt text](/assets/<year>/<fileName>)`
-
-### ローカルでのプレビュー
-
-`docker-compose` でローカル環境で確認できるようにしました。
-
-`$ docker-compose up` で起動します。
-
-[http://localhost:4000/](http://localhost:4000/activities) で確認することができます。
 
 ## その他
 
