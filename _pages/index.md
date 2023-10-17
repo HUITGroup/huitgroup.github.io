@@ -62,7 +62,7 @@ Twitter : [@huitgroup](https://twitter.com/huitgroup)
 - 06 月 機械学習勉強会
 - 07 月 バックエンド勉強会
 - 09 月 Google Cloud Platform 勉強会
-- 10 月 Progateさんと合同でProgate Path ハンズオン
+- 10 月 Progateさんと合同で Progate Path ハンズオン
 - 10 月 インフィニットループさんと合同勉強会
 
 ～今後の予定～
