@@ -115,7 +115,7 @@ Twitter : [@huitgroup](https://twitter.com/huitgroup)
   - [Generative Design Award](https://www.myautodesk.jp/f360-gd-contest-2021/)
 - LT 会
   - [技育祭 2022 春 学生 LT](https://talent.supporterz.jp/geeksai/2022spring/)
-  - [北海道未完 × デルタ新潟合同 LT 会](https://hokkaido-mikan-delta-niigata. connpass.com/event/236750/)
+  - [北海道未完 × デルタ新潟合同 LT 会](https://hokkaido-mikan-delta-niigata.connpass.com/event/236750/)
   - [未完 LT 会](https://mikan-study.connpass.com/event/233759/)
 - CTF
   - [WaniCTF2021](https://wanictf.org/)
