@@ -130,6 +130,7 @@ Twitter : [@huitgroup](https://twitter.com/huitgroup)
   - [ICTSC](https://icttoracon.net/)
   - [北大 DX フェローシップロゴデザイン](https://sites.google.com/eis.hokudai.ac.jp/dxphd-fellow/logo)
   - [STAND OUT](https://standout-sapporo.city/)
+  - [PLATEAU AWARD 2022](https://www.mlit.go.jp/plateau-next/2022/)
 
 <br/>
 
