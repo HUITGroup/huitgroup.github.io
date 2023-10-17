@@ -33,7 +33,7 @@ Twitter : [@huitgroup](https://twitter.com/huitgroup)
 
 # 👨‍💻 これまでの活動
 
-## 2022 年
+## 2023 年
 
 <ul> <!-- 2022年の記事一覧 -->
 {% for post in site.posts reversed %}
@@ -55,11 +55,15 @@ Twitter : [@huitgroup](https://twitter.com/huitgroup)
 
 ～終了した活動～
 
-- 03 月 HUIT ハッカソン開催
-- 04 月 部の discord の管理に bot を作ってみた
-- 06 月 集中講義「プログラミング教室」の TA を派遣しました
-- 07 月 夏だ！花火だ！LT だ！ HUIT × ビズリーチコラボ LT 大会
-- 12 月 [2021 年 HUIT アドベントカレンダー](https://qiita.com/advent-calendar/2021/huit)
+- 04 月 HUIT 大新歓 2023
+- 05 月 応用情報勉強会
+- 06 月 ゼロから作る WebApp 勉強会
+- 06 月 OB / OG 座談会
+- 06 月 機械学習勉強会
+- 07 月 バックエンド勉強会
+- 09 月 Google Cloud Platform 勉強会
+- 10 月 Progate Path ハンズオン
+- 10 月 インフィニットループさんと合同勉強会
 
 ～今後の予定～
 
