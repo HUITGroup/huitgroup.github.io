@@ -64,6 +64,10 @@ Twitter : [@huitgroup](https://twitter.com/huitgroup)
 - 09 月 Google Cloud Platform 勉強会
 - 10 月 Progate さんと Progate Path ハンズオン
 - 10 月 インフィニットループさんと合同勉強会
+- 11 月 ゆるゆる LT (ライトニングトーク) 会
+- 12 月 Go で学ぶネットワーク勉強会
+- 12 月 インフィニットループさんとクリプトン・フューチャー・メディアさんと合同勉強会
+- 12 月 ゲームボーイエミュレータをワイワイ作る会
 
 ～今後の予定～
 
