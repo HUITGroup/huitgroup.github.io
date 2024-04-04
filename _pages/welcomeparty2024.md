@@ -42,11 +42,14 @@ permalink: /welcomeparty2024
 
 **4/5(金) セッション ① 3D 生成 AI で遊ぼう**
 
-概要 : 3D 生成 AI で遊ぶ！
+概要 : 最新の AI で 1 枚の画像やテキストだけから 3D モデルを生成したり、それを日本未発売の Apple Vision Pro で見てみたりします！
 
 **4/5(金) セッション ② 競技プログラミング、やってみませんか？**
 
-概要 : 競技プログラミングやる！
+概要 : 変数・ if ・ for は分かったけど、そこから何を勉強すればいいのか分からない。
+それなら競技プログラミングでプログラミングの基礎体力をつけましょう！
+
+![image]({{ "/assets/2024/welcomeparty_2024_day1.jpg" | relative_url }})
 
 ---
 
@@ -95,7 +98,7 @@ permalink: /welcomeparty2024
 
 <!-- 1. <a href="https://forms.gle/QFouk7eM2FJ62ZDB6" target="_blank" rel="noopener noreferrer">参加申し込みフォーム</a>を送信する -->
 
-1. 参加申し込みフォーム(準備中です)を送信する
+1. <a href="https://docs.google.com/forms/d/e/1FAIpQLSefkvPoeTZsRs5jbOqQlqAsHBQV8lmH_UPNae6jlrv5ksNNiQ/viewform" target="_blank" rel="noopener noreferrer">参加申し込みフォーム</a>を送信する
 
 2. Zoom のインストールを済ませておく
 
