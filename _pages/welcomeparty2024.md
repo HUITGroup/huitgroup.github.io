@@ -108,6 +108,12 @@ Sansan 株式会社 様と合同でプレゼンセッションをします！
 
 HUIT のメンバー 6 人が LT をします！
 
+![image]({{ "/assets/2024/welcomeparty_2024_day6_1.jpg" | relative_url }})
+
+![image]({{ "/assets/2024/welcomeparty_2024_day6_2.jpg" | relative_url }})
+
+![image]({{ "/assets/2024/welcomeparty_2024_day6_3.jpg" | relative_url }})
+
 ---
 
 <br/>
