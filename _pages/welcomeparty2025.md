@@ -100,7 +100,7 @@ IT & デジタル創作系サークル 7 団体が集結！
 
 **申し込み**
 
-1. <a href="https://example.com" target="_blank" rel="noopener noreferrer">参加申し込みフォーム</a>を送信する
+1. <a href="https://forms.gle/FdNwPy45tpsKLiHP8" target="_blank" rel="noopener noreferrer">参加申し込みフォーム</a>を送信する
 
 2. (オンライン参加の場合)Zoom のインストールを済ませておく
 
