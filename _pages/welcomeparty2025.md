@@ -31,7 +31,7 @@ permalink: /welcomeparty2025
 
 # 📅 新歓スケジュール
 
-<!-- ![image]({{ "/assets/2025/welcomeparty_2025.jpg" | relative_url }}) -->
+![image]({{ "/assets/2025/welcomeparty_2025.png" | relative_url }})
 
 <br/>
 
