@@ -31,10 +31,6 @@ Twitter : [@huitgroup](https://twitter.com/huitgroup)
 
 <br/>
 
-# ✨ 2025 新歓
-
-特設ページは[こちら](/welcomeparty2025)
-
 # 👨‍💻 これまでの活動
 
 ## 2023 年
