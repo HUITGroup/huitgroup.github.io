@@ -9,6 +9,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 locale: ja_JP
 title: "HUIT 北大IT研究会"

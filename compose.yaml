@@ -1,0 +1,11 @@
+services:
+  app:
+    image: ghcr.io/github/pages-gem:v232
+    command:
+      - "bash"
+      - "-c"
+      - "jekyll serve -H 0.0.0.0 -P 4000 --force_polling"
+    volumes:
+      - .:/src/site
+    ports:
+      - 4000:4000
